@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+	body{
+		background-color:#33ffff;
+	}
+</style>
+<h2>FeedBack details!!!</h2>
+
+<p id="demo"></p>
+<script>
+var txt = '{"name":"Madhu", "pincode":61656, "city":"Villupuram"}'
+var obj = JSON.parse(txt);
+document.getElementById("demo").innerHTML = obj.name + ", " + obj.city + ", " + obj.pincode;
+
+</script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "conditions.xsl"?>
+<conditions>
+  <city pincode="605714" name="Madurai">
+    <today> cloudy "31 degree"</today>
+    <tomorrow> haze "32 degree" </tomorrow>
+    <thursday> thunderstorm "32 degree"</thursday>
+  </city>
+  <city pincode="606752" name="villupuram">
+    <today> thunderstorm "29 degree"</today>
+    <tomorrow> rain "32 degree" </tomorrow>
+    <thursday> clear "32 degree"</thursday>
+  </city>
+  <city pincode="606897" name="coimbatore">
+    <today> cloudy "32 degree"</today>
+    <tomorrow> thunderstorm "30 degree" </tomorrow>
+    <thursday> haze "30 degree"</thursday>
+  </city>
+   <city pincode="605564" name="salem">
+    <today> cloudy "33 degree"</today>
+    <tomorrow> thunderstorm "30 degree" </tomorrow>
+    <thursday> rain "30 degree"</thursday>
+  </city>
+   <city pincode="605714" name="chennai">
+    <today> thunderstorm "28 degree"</today>
+    <tomorrow> haze "31 degree" </tomorrow>
+    <thursday> rain "29 degree"</thursday>
+  </city>
+   <city pincode="618264" name="Theni">
+    <today> haze "30 degree"</today>
+    <tomorrow> rain "29 degree" </tomorrow>
+    <thursday> haze "30 degree"</thursday>
+  </city>
+  <city pincode="617869" name="bangalore">
+    <today> cloudy "28 degree"</today>
+    <tomorrow> rain "28 degree" </tomorrow>
+    <thursday> thunderstorm "27 degree"</thursday>
+  </city>
+  <city pincode="629869" name="karaikkal">
+    <today> thunderstorm "29 degree"</today>
+    <tomorrow> thunderstorm "30 degree" </tomorrow>
+    <thursday> rain "31 degree"</thursday>
+  </city>
+  <city pincode="626549" name="Erode">
+    <today> cloudy "34 degree"</today>
+    <tomorrow> clear "33 degree" </tomorrow>
+    <thursday> thunderstorm "30 degree"</thursday>
+  </city>
+  <city pincode="622349" name="thiruvanandhapuram">
+    <today> cloudy "32 degree"</today>
+    <tomorrow> rain "31 degree" </tomorrow>
+    <thursday> thunderstorm "31 degree"</thursday>
+  </city>
+</conditions>

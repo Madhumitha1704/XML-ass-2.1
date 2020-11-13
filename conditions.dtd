@@ -1,0 +1,23 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT conditions (city)+>
+<!ATTLIST conditions
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT city (today,tomorrow,thursday)>
+<!ATTLIST city
+  xmlns CDATA #FIXED ''
+  name NMTOKEN #REQUIRED
+  pincode CDATA #REQUIRED>
+
+<!ELEMENT today (#PCDATA)>
+<!ATTLIST today
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT tomorrow (#PCDATA)>
+<!ATTLIST tomorrow
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT thursday (#PCDATA)>
+<!ATTLIST thursday
+  xmlns CDATA #FIXED ''>

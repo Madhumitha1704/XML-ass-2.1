@@ -1,0 +1,48 @@
+{
+    "details": {
+        "user": [
+            {
+                "name": "Madhu",
+                "phone": "9765467345",
+                "location": "villupuram",
+                "email": "madhu@gmail.com",
+                "_uid": "01"
+            },
+            {
+                "name": "raji",
+                "phone": "9345788710",
+                "location": "Chennai",
+                "email": "raji@gmail.com",
+                "_uid": "02"
+            },
+            {
+                "name": "kuttyma",
+                "phone": "9345788767",
+                "location": "Coimbatore",
+                "email": "kutty@gmail.com",
+                "_uid": "03"
+            },
+            {
+                "name": "anu",
+                "phone": "9345546879",
+                "location": "Madurai",
+                "email": "anu@gmail.com",
+                "_uid": "04"
+            },
+            {
+                "name": "illiyana",
+                "phone": "9478782999",
+                "location": "Erode",
+                "email": "illi@gmail.com",
+                "_uid": "05"
+            },
+            {
+                "name": "mani",
+                "phone": "957889475",
+                "location": "thiruvanandhapuram",
+                "email": "mani@gmail.com",
+                "_uid": "06"
+            }
+        ]
+    }
+}

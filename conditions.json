@@ -1,0 +1,76 @@
+{
+    "conditions": {
+        "city": [
+            {
+                "today": "cloudy \"31 degree\"",
+                "tomorrow": "haze \"32 degree\"",
+                "thursday": "thunderstorm \"32 degree\"",
+                "_pincode": "605714",
+                "_name": "Madurai"
+            },
+            {
+                "today": "thunderstorm \"29 degree\"",
+                "tomorrow": "rain \"32 degree\"",
+                "thursday": "clear \"32 degree\"",
+                "_pincode": "606752",
+                "_name": "villupuram"
+            },
+            {
+                "today": "cloudy \"32 degree\"",
+                "tomorrow": "thunderstorm \"30 degree\"",
+                "thursday": "haze \"30 degree\"",
+                "_pincode": "606897",
+                "_name": "coimbatore"
+            },
+            {
+                "today": "cloudy \"33 degree\"",
+                "tomorrow": "thunderstorm \"30 degree\"",
+                "thursday": "rain \"30 degree\"",
+                "_pincode": "605564",
+                "_name": "salem"
+            },
+            {
+                "today": "thunderstorm \"28 degree\"",
+                "tomorrow": "haze \"31 degree\"",
+                "thursday": "rain \"29 degree\"",
+                "_pincode": "605714",
+                "_name": "chennai"
+            },
+            {
+                "today": "haze \"30 degree\"",
+                "tomorrow": "rain \"29 degree\"",
+                "thursday": "haze \"30 degree\"",
+                "_pincode": "618264",
+                "_name": "Theni"
+            },
+            {
+                "today": "cloudy \"28 degree\"",
+                "tomorrow": "rain \"28 degree\"",
+                "thursday": "thunderstorm \"27 degree\"",
+                "_pincode": "617869",
+                "_name": "bangalore"
+            },
+            {
+                "today": "thunderstorm \"29 degree\"",
+                "tomorrow": "thunderstorm \"30 degree\"",
+                "thursday": "rain \"31 degree\"",
+                "_pincode": "629869",
+                "_name": "karaikkal"
+            },
+            {
+                "today": "cloudy \"34 degree\"",
+                "tomorrow": "clear \"33 degree\"",
+                "thursday": "thunderstorm \"30 degree\"",
+                "_pincode": "626549",
+                "_name": "Erode"
+            },
+            {
+                "today": "cloudy \"32 degree\"",
+                "tomorrow": "rain \"31 degree\"",
+                "thursday": "thunderstorm \"31 degree\"",
+                "_pincode": "622349",
+                "_name": "thiruvanandhapuram"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "userdetails.xsl"?>
+<details>
+  <user uid="01">
+    <name>Madhu</name>
+    <phone> 9765467345 </phone>
+    <location> villupuram </location>
+    <email> madhu@gmail.com </email>
+  </user>
+  <user uid="02">
+    <name>raji</name>
+    <phone> 9345788710 </phone>
+    <location> Chennai </location>
+    <email> raji@gmail.com </email>
+  </user>
+  <user uid="03">
+    <name>kuttyma</name>
+    <phone> 9345788767 </phone>
+    <location> Coimbatore </location>
+    <email> kutty@gmail.com </email>
+  </user>
+  <user uid="04">
+    <name>anu</name>
+    <phone> 9345546879 </phone>
+    <location> Madurai </location>
+    <email> anu@gmail.com </email>
+  </user>
+  <user uid="05">
+    <name>illiyana</name>
+    <phone> 9478782999 </phone>
+    <location> Erode </location>
+    <email> illi@gmail.com </email>
+  </user>
+  <user uid="06">
+    <name>mani</name>
+    <phone> 957889475 </phone>
+    <location> thiruvanandhapuram </location>
+    <email> mani@gmail.com </email>
+  </user>
+</details>
